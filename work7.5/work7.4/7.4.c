@@ -6,8 +6,8 @@ int my_strlen(char *p)
 	int num = 0;
 	while (*p)
 	{
-		num++;
-		p++;
+	num++;
+	p++;
 	}
 	return num;*/
 	if (*p == '\0')
