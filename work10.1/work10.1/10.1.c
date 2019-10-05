@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
+//二进制含有几个1
 int count_one_bits(unsigned int n)
 {
 	int count = 0;
