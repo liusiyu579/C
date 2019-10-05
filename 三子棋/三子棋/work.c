@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-
+//Èý×ÓÆå´úÂë
 #include"game.h"
 void Menu()
 {
