@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-
+//各个位的之和
 #include<stdio.h>
 int DigitSum(int n)
 {
