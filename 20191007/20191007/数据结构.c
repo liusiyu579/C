@@ -4,7 +4,7 @@
 #include<malloc.h> 
 typedef  struct list {
 	int data;
-	struct list * next;  //下一个节点地址   
+	struct list * next;  
 }list;
 //第一条链表 
 struct list * L = NULL;//头
