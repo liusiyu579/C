@@ -9,7 +9,7 @@ typedef char ElemType;
 typedef  int Status;
 typedef struct StackNode
 {
-	ElemType data;
+	ElemType data;//
 	struct StackNode *next;
 }StackNode,*LinkStack;
 Status InitStack(LinkStack &S)
