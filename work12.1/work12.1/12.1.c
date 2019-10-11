@@ -13,7 +13,7 @@ unsigned int reverse_bit(unsigned int value)
 	}
 	printf("%d", sum);
 }
-int main()
+int main()//
 {
 	int num =30;
 	reverse_bit(num);
