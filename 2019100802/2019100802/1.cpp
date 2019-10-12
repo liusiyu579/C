@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<iostream>
 #include<stdlib.h>
+//
 using namespace std;
 #define MAXSIZE 100
 typedef int Status;
