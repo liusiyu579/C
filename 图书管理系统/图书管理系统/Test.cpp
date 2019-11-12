@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include "stdio.h"
 #include "iostream"
-     
+     //
 struct book{
 	int id;
 	char title[20];
