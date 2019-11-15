@@ -4,7 +4,7 @@ void creatBinTree(BinTree &bt)//先序创建二叉树
 {
 	char ch;
 	cin >> ch;
-	if (ch =='#')
+	if (ch =='#')//
 	{
 		bt = NULL;
 	}
